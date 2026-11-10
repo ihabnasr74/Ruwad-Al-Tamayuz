@@ -1,0 +1,6 @@
+{
+  "name": "Rowad Al Tamayuz Translation Services",
+  "description": "Official bilingual 3D parallax portfolio and service platform for Rowad Al Tamayuz Translation Services (رواد التميّز لخدمات الترجمة).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
